@@ -62,5 +62,3 @@ Happy Ending
 =======
 >>>>>>> parent of cb39406 (답변4)
 >>>>>>> parent of 8d027d9 (Revert "happyEnding")
-
-네 감사합니다 
